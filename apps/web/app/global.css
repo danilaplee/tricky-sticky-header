@@ -399,3 +399,13 @@ summary svg {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
+.header-down {
+  top: -64px;
+}
+.page-header-up {
+  top: 64px;
+}
+.fixed-header {
+  width: 100%;
+  left:0;
+}
